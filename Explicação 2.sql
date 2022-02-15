@@ -56,7 +56,7 @@ WHERE email = "bart@email.com";
 
 UPDATE tb_produtos
 SET preco = 9.50;
-
+	
 -- DELETE
 DELETE FROM tb_ordens
 WHERE id_ordem > 1;
